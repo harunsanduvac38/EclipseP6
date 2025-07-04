@@ -1,5 +1,6 @@
 package miscolecciones.genericos;
 
+
 public class ListaArray<T> implements Lista<T> {
 	
 	
@@ -57,5 +58,7 @@ public class ListaArray<T> implements Lista<T> {
 		}
 		almacen = nuevo;
 	}
+
+
 
 }

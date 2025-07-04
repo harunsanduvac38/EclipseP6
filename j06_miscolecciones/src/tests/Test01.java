@@ -38,6 +38,8 @@ public class Test01 {
 			System.out.println(lista1.buscar(i));
 		}
 		
+		
+		
 		System.out.println();
 		System.out.println(lista1.largo());
 		System.out.println(lista1.vacia());

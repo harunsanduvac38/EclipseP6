@@ -1,5 +1,6 @@
 package miscolecciones.genericos;
 
+
 public class ListaEnlazada<T> implements Lista<T>{
 	
 	
@@ -70,5 +71,8 @@ public class ListaEnlazada<T> implements Lista<T>{
 			
 		}
 	}
+
+
+	
 
 }
